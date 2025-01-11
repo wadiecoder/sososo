@@ -1,0 +1,19 @@
+{
+  "name": "birthdayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "gh-pages": "^6.1.1",
+    "inquirer": "^9.2.12",
+    "simple-git": "^3.22.0"
+  }
+}
